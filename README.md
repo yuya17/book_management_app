@@ -1,6 +1,6 @@
-# twitter_ui_demo
+# Book Management App
 
-Recreating the Twitter app in Flutter.
+Creating book management app in Flutter.
 
 ## Getting Started
 
